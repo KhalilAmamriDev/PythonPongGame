@@ -34,8 +34,10 @@ while True:
     ball.penup()
     ball.goto(0, 0)
     
+# Initial commit: basic window, paddles, and ball setup for Pong game
 
 
 
- 
+
+
 
